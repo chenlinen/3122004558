@@ -1,0 +1,6 @@
+Cython==0.29.28
+gensim==4.2.0
+jieba==0.42.1
+numpy==1.23.3
+scipy==1.9.1
+smart-open==6.2.0
